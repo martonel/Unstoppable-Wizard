@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - enemy
+  - enemyProjectile
+  - sword
+  - enviroment
+  - shield
+  - sleep
+  - wand
+  - music
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player
+  - Sword
+  - BackGround
+  - Enemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: wall
+    uniqueID: 1786408425
+    locked: 0
+  - name: Player
+    uniqueID: 1675487789
+    locked: 0
+  - name: projectile
+    uniqueID: 2161142949
+    locked: 0
+  - name: enemy
+    uniqueID: 1284877087
+    locked: 0
+  - name: ward
+    uniqueID: 3104659659
+    locked: 0
+  - name: sword
+    uniqueID: 4208220319
+    locked: 0
+  - name: column
+    uniqueID: 860174447
+    locked: 0
+  - name: health
+    uniqueID: 2424782347
+    locked: 0
